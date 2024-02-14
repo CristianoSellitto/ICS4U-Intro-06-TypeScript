@@ -1,4 +1,4 @@
-# ics4u-intro-06-typescript
+# ICS4U-Intro-06-Typescript
 
 [![Mr Coxall's Super Linter](https://github.com/CristianoSellitto/ICS4U-Intro-06-TypeScript/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/CristianoSellitto/ICS4U-Intro-06-TypeScript/actions/)
 
